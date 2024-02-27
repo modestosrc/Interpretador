@@ -1,0 +1,451 @@
+DEBUG: new_token
+DEBUG: Entrando no loop next_token
+DEBUG: read_char chamado
+DEBUG: read_position 0
+Some l
+DEBUG: make_token
+DEBUG: ident_token chamdo com l
+DEBUG: read_char chamado
+DEBUG: read_position 1
+Some e
+DEBUG: chamando is_alpha com t
+DEBUG: read_char chamado
+DEBUG: read_position 2
+Some t
+DEBUG: chamando is_alpha com  
+Token 1: Token [31mFail[0m | Literal [31mFail[0m
+!DEBUG: new_token
+DEBUG: Entrando no loop next_token
+DEBUG: read_char chamado
+DEBUG: read_position 3
+Some  
+DEBUG: make_token
+Token 2: Token [31mFail[0m | Literal [31mFail[0m
+!DEBUG: new_token
+DEBUG: Entrando no loop next_token
+DEBUG: read_char chamado
+DEBUG: read_position 4
+Some f
+DEBUG: make_token
+DEBUG: ident_token chamdo com f
+DEBUG: read_char chamado
+DEBUG: read_position 5
+Some i
+DEBUG: chamando is_alpha com v
+DEBUG: read_char chamado
+DEBUG: read_position 6
+Some v
+DEBUG: chamando is_alpha com e
+DEBUG: read_char chamado
+DEBUG: read_position 7
+Some e
+DEBUG: chamando is_alpha com  
+Token 3: Token [31mFail[0m | Literal [31mFail[0m
+!DEBUG: new_token
+DEBUG: Entrando no loop next_token
+DEBUG: read_char chamado
+DEBUG: read_position 8
+Some  
+DEBUG: make_token
+Token 4: Token [31mFail[0m | Literal [31mFail[0m
+!DEBUG: new_token
+DEBUG: Entrando no loop next_token
+DEBUG: read_char chamado
+DEBUG: read_position 9
+Some =
+DEBUG: make_token
+Token 5: Token [31mFail[0m | Literal [31mFail[0m
+!DEBUG: new_token
+DEBUG: Entrando no loop next_token
+DEBUG: read_char chamado
+DEBUG: read_position 10
+Some  
+DEBUG: make_token
+Token 6: Token [31mFail[0m | Literal [31mFail[0m
+!DEBUG: new_token
+DEBUG: Entrando no loop next_token
+DEBUG: read_char chamado
+DEBUG: read_position 11
+Some 5
+DEBUG: make_token
+DEBUG: int_token
+Token 7: Token [31mFail[0m | Literal [31mFail[0m
+!DEBUG: new_token
+DEBUG: Entrando no loop next_token
+DEBUG: read_char chamado
+DEBUG: read_position 12
+Some ;
+DEBUG: make_token
+Token 8: Token [31mFail[0m | Literal [31mFail[0m
+!DEBUG: new_token
+DEBUG: Entrando no loop next_token
+DEBUG: read_char chamado
+DEBUG: read_position 13
+Some 
+
+DEBUG: make_token
+Token 9: Token [31mFail[0m | Literal [31mFail[0m
+!DEBUG: new_token
+DEBUG: Entrando no loop next_token
+DEBUG: read_char chamado
+DEBUG: read_position 14
+Some l
+DEBUG: make_token
+DEBUG: ident_token chamdo com l
+DEBUG: read_char chamado
+DEBUG: read_position 15
+Some e
+DEBUG: chamando is_alpha com t
+DEBUG: read_char chamado
+DEBUG: read_position 16
+Some t
+DEBUG: chamando is_alpha com  
+Token 10: Token [31mFail[0m | Literal [31mFail[0m
+!DEBUG: new_token
+DEBUG: Entrando no loop next_token
+DEBUG: read_char chamado
+DEBUG: read_position 17
+Some  
+DEBUG: make_token
+Token 11: Token [31mFail[0m | Literal [31mFail[0m
+!DEBUG: new_token
+DEBUG: Entrando no loop next_token
+DEBUG: read_char chamado
+DEBUG: read_position 18
+Some t
+DEBUG: make_token
+DEBUG: ident_token chamdo com t
+DEBUG: read_char chamado
+DEBUG: read_position 19
+Some e
+DEBUG: chamando is_alpha com n
+DEBUG: read_char chamado
+DEBUG: read_position 20
+Some n
+DEBUG: chamando is_alpha com  
+Token 12: Token [32mPass[0m | Literal [31mFail[0m
+!DEBUG: new_token
+DEBUG: Entrando no loop next_token
+DEBUG: read_char chamado
+DEBUG: read_position 21
+Some  
+DEBUG: make_token
+Token 13: Token [31mFail[0m | Literal [31mFail[0m
+!DEBUG: new_token
+DEBUG: Entrando no loop next_token
+DEBUG: read_char chamado
+DEBUG: read_position 22
+Some =
+DEBUG: make_token
+Token 14: Token [31mFail[0m | Literal [31mFail[0m
+!DEBUG: new_token
+DEBUG: Entrando no loop next_token
+DEBUG: read_char chamado
+DEBUG: read_position 23
+Some  
+DEBUG: make_token
+Token 15: Token [31mFail[0m | Literal [31mFail[0m
+!DEBUG: new_token
+DEBUG: Entrando no loop next_token
+DEBUG: read_char chamado
+DEBUG: read_position 24
+Some 1
+DEBUG: make_token
+DEBUG: int_token
+DEBUG: read_char chamado
+DEBUG: read_position 25
+Some 0
+Token 16: Token [31mFail[0m | Literal [31mFail[0m
+!DEBUG: new_token
+DEBUG: Entrando no loop next_token
+DEBUG: read_char chamado
+DEBUG: read_position 26
+Some ;
+DEBUG: make_token
+Token 17: Token [31mFail[0m | Literal [31mFail[0m
+!DEBUG: new_token
+DEBUG: Entrando no loop next_token
+DEBUG: read_char chamado
+DEBUG: read_position 27
+Some 
+
+DEBUG: make_token
+Token 18: Token [31mFail[0m | Literal [31mFail[0m
+!DEBUG: new_token
+DEBUG: Entrando no loop next_token
+DEBUG: read_char chamado
+DEBUG: read_position 28
+Some l
+DEBUG: make_token
+DEBUG: ident_token chamdo com l
+DEBUG: read_char chamado
+DEBUG: read_position 29
+Some e
+DEBUG: chamando is_alpha com t
+DEBUG: read_char chamado
+DEBUG: read_position 30
+Some t
+DEBUG: chamando is_alpha com  
+Token 19: Token [31mFail[0m | Literal [31mFail[0m
+!DEBUG: new_token
+DEBUG: Entrando no loop next_token
+DEBUG: read_char chamado
+DEBUG: read_position 31
+Some  
+DEBUG: make_token
+Token 20: Token [31mFail[0m | Literal [31mFail[0m
+!DEBUG: new_token
+DEBUG: Entrando no loop next_token
+DEBUG: read_char chamado
+DEBUG: read_position 32
+Some a
+DEBUG: make_token
+DEBUG: ident_token chamdo com a
+DEBUG: read_char chamado
+DEBUG: read_position 33
+Some d
+DEBUG: chamando is_alpha com d
+DEBUG: read_char chamado
+DEBUG: read_position 34
+Some d
+DEBUG: chamando is_alpha com  
+Token 21: Token [32mPass[0m | Literal [31mFail[0m
+!DEBUG: new_token
+DEBUG: Entrando no loop next_token
+DEBUG: read_char chamado
+DEBUG: read_position 35
+Some  
+DEBUG: make_token
+Token 22: Token [31mFail[0m | Literal [31mFail[0m
+!DEBUG: new_token
+DEBUG: Entrando no loop next_token
+DEBUG: read_char chamado
+DEBUG: read_position 36
+Some =
+DEBUG: make_token
+Token 23: Token [31mFail[0m | Literal [31mFail[0m
+!DEBUG: new_token
+DEBUG: Entrando no loop next_token
+DEBUG: read_char chamado
+DEBUG: read_position 37
+Some  
+DEBUG: make_token
+Token 24: Token [31mFail[0m | Literal [31mFail[0m
+!DEBUG: new_token
+DEBUG: Entrando no loop next_token
+DEBUG: read_char chamado
+DEBUG: read_position 38
+Some f
+DEBUG: make_token
+DEBUG: ident_token chamdo com f
+DEBUG: read_char chamado
+DEBUG: read_position 39
+Some n
+DEBUG: chamando is_alpha com (
+Token 25: Token [31mFail[0m | Literal [31mFail[0m
+!DEBUG: new_token
+DEBUG: Entrando no loop next_token
+DEBUG: read_char chamado
+DEBUG: read_position 40
+Some (
+DEBUG: make_token
+Token 26: Token [31mFail[0m | Literal [31mFail[0m
+!DEBUG: new_token
+DEBUG: Entrando no loop next_token
+DEBUG: read_char chamado
+DEBUG: read_position 41
+Some x
+DEBUG: make_token
+DEBUG: ident_token chamdo com x
+Token 27: Token [31mFail[0m | Literal [31mFail[0m
+!DEBUG: new_token
+DEBUG: Entrando no loop next_token
+DEBUG: read_char chamado
+DEBUG: read_position 42
+Some ,
+DEBUG: make_token
+Token 28: Token [31mFail[0m | Literal [31mFail[0m
+!DEBUG: new_token
+DEBUG: Entrando no loop next_token
+DEBUG: read_char chamado
+DEBUG: read_position 43
+Some  
+DEBUG: make_token
+Token 29: Token [31mFail[0m | Literal [31mFail[0m
+!DEBUG: new_token
+DEBUG: Entrando no loop next_token
+DEBUG: read_char chamado
+DEBUG: read_position 44
+Some y
+DEBUG: make_token
+DEBUG: ident_token chamdo com y
+Token 30: Token [32mPass[0m | Literal [31mFail[0m
+!DEBUG: new_token
+DEBUG: Entrando no loop next_token
+DEBUG: read_char chamado
+DEBUG: read_position 45
+Some )
+DEBUG: make_token
+Token 31: Token [31mFail[0m | Literal [31mFail[0m
+!DEBUG: new_token
+DEBUG: Entrando no loop next_token
+DEBUG: read_char chamado
+DEBUG: read_position 46
+Some  
+DEBUG: make_token
+Token 32: Token [31mFail[0m | Literal [31mFail[0m
+!DEBUG: new_token
+DEBUG: Entrando no loop next_token
+DEBUG: read_char chamado
+DEBUG: read_position 47
+Some {
+DEBUG: make_token
+Token 33: Token [31mFail[0m | Literal [31mFail[0m
+!DEBUG: new_token
+DEBUG: Entrando no loop next_token
+DEBUG: read_char chamado
+DEBUG: read_position 48
+Some 
+
+DEBUG: make_token
+Token 34: Token [31mFail[0m | Literal [31mFail[0m
+!DEBUG: new_token
+DEBUG: Entrando no loop next_token
+DEBUG: read_char chamado
+DEBUG: read_position 49
+Some x
+DEBUG: make_token
+DEBUG: ident_token chamdo com x
+Token 35: Token [31mFail[0m | Literal [31mFail[0m
+!DEBUG: new_token
+DEBUG: Entrando no loop next_token
+DEBUG: read_char chamado
+DEBUG: read_position 50
+Some  
+DEBUG: make_token
+Token 36: Token [31mFail[0m | Literal [31mFail[0m
+!DEBUG: new_token
+DEBUG: Entrando no loop next_token
+DEBUG: read_char chamado
+DEBUG: read_position 51
+Some +
+DEBUG: make_token
+Token 37: Token [31mFail[0m | Literal [31mFail[0m
+!DEBUG: new_token
+DEBUG: Entrando no loop next_token
+DEBUG: read_char chamado
+DEBUG: read_position 52
+Some  
+DEBUG: make_token
+Token 38: Token [31mFail[0m | Literal [31mFail[0m
+!DEBUG: new_token
+DEBUG: Entrando no loop next_token
+DEBUG: read_char chamado
+DEBUG: read_position 53
+Some y
+DEBUG: make_token
+DEBUG: ident_token chamdo com y
+Token 39: Token [31mFail[0m | Literal [31mFail[0m
+!DEBUG: new_token
+DEBUG: Entrando no loop next_token
+DEBUG: read_char chamado
+DEBUG: read_position 54
+Some ;
+DEBUG: make_token
+Token 40: Token [31mFail[0m | Literal [31mFail[0m
+!DEBUG: new_token
+DEBUG: Entrando no loop next_token
+DEBUG: read_char chamado
+DEBUG: read_position 55
+Some 
+
+DEBUG: make_token
+Token 41: Token [31mFail[0m | Literal [31mFail[0m
+!DEBUG: new_token
+DEBUG: Entrando no loop next_token
+DEBUG: read_char chamado
+DEBUG: read_position 56
+Some }
+DEBUG: make_token
+Token 42: Token [31mFail[0m | Literal [31mFail[0m
+!DEBUG: new_token
+DEBUG: Entrando no loop next_token
+DEBUG: read_char chamado
+DEBUG: read_position 57
+Some ;
+DEBUG: make_token
+Token 43: Token [31mFail[0m | Literal [31mFail[0m
+!DEBUG: new_token
+DEBUG: Entrando no loop next_token
+DEBUG: read_char chamado
+DEBUG: read_position 58
+Some 
+
+DEBUG: make_token
+Token 44: Token [31mFail[0m | Literal [31mFail[0m
+!DEBUG: new_token
+DEBUG: Entrando no loop next_token
+DEBUG: read_char chamado
+DEBUG: read_position 59
+Some l
+DEBUG: make_token
+DEBUG: ident_token chamdo com l
+DEBUG: read_char chamado
+DEBUG: read_position 60
+Some e
+DEBUG: chamando is_alpha com t
+DEBUG: read_char chamado
+DEBUG: read_position 61
+Some t
+DEBUG: chamando is_alpha com  
+Token 45: Token [31mFail[0m | Literal [31mFail[0m
+!DEBUG: new_token
+DEBUG: Entrando no loop next_token
+DEBUG: read_char chamado
+DEBUG: read_position 62
+Some  
+DEBUG: make_token
+Token 46: Token [31mFail[0m | Literal [31mFail[0m
+!DEBUG: new_token
+DEBUG: Entrando no loop next_token
+DEBUG: read_char chamado
+DEBUG: read_position 63
+Some r
+DEBUG: make_token
+DEBUG: ident_token chamdo com r
+DEBUG: read_char chamado
+DEBUG: read_position 64
+Some e
+DEBUG: chamando is_alpha com s
+DEBUG: read_char chamado
+DEBUG: read_position 65
+Some s
+DEBUG: chamando is_alpha com u
+DEBUG: read_char chamado
+DEBUG: read_position 66
+Some u
+DEBUG: chamando is_alpha com l
+DEBUG: read_char chamado
+DEBUG: read_position 67
+Some l
+DEBUG: chamando is_alpha com t
+DEBUG: read_char chamado
+DEBUG: read_position 68
+Some t
+DEBUG: chamando is_alpha com  
+Token 47: Token [31mFail[0m | Literal [31mFail[0m
+!DEBUG: new_token
+DEBUG: Entrando no loop next_token
+DEBUG: read_char chamado
+DEBUG: read_position 69
+Some  
+DEBUG: make_token
+Token 48: Token [31mFail[0m | Literal [31mFail[0m
+!DEBUG: new_token
+DEBUG: Entrando no loop next_token
+DEBUG: read_char chamado
+DEBUG: read_position 70
+Some =
+DEBUG: make_token
+Token 49: Token [31mFail[0m | Literal [31mFail[0m
+!
